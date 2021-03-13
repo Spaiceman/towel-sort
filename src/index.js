@@ -1,5 +1,4 @@
 module.exports = function towelSort (matrix) {
-    module.exports = function towelSort (matrix) {
   if (matrix === undefined || matrix.length === 0) return [];
   var mas = matrix[0];
 
